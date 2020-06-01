@@ -1,6 +1,6 @@
-# for_bam
+# fun_bam
 
-record our love 
+A new Flutter application.
 
 ## Getting Started
 

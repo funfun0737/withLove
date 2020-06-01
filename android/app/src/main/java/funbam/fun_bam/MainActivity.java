@@ -1,4 +1,4 @@
-package funbam.for_bam;
+package funbam.fun_bam;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
